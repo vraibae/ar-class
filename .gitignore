@@ -64,3 +64,6 @@ Vuforia Test/Library/ArtifactDB
 Vuforia Test/Library/PackageCache/com.ptc.vuforia.engine@9d3686ce1247-1632536113000/Vuforia/Plugins/iOS/VuforiaEngine.framework/VuforiaEngine
 Vuforia Test/Library/PackageCache/com.ptc.vuforia.engine@9d3686ce1247-1632536113000/Vuforia/Plugins/iOS/VuforiaEngine.framework/VuforiaEngine.meta
 Vuforia Test/Packages/com.ptc.vuforia.engine-10.2.5.tgz
+ARCoreTest/Library/ArtifactDB
+ARCoreTest/Packages/com.ptc.vuforia.engine-10.2.5.tgz
+ARCoreTest/Library/PackageCache/com.ptc.vuforia.engine@3af586111bd2-1632536113000/Vuforia/Plugins/iOS/VuforiaEngine.framework/VuforiaEngine
