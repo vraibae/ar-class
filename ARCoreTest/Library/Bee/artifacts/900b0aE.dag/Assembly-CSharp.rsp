@@ -396,6 +396,9 @@
 "Assets/Sci Fi Assets/Simple SciFi Gun Turret Set/Scripts/CameraMouseDrag.cs"
 "Assets/Sci Fi Assets/Simple SciFi Gun Turret Set/Scripts/CameraMouseRotate.cs"
 "Assets/Sci Fi Assets/Simple SciFi Gun Turret Set/Scripts/MoveMe.cs"
+"Assets/Scripts/Ball.cs"
+"Assets/Scripts/GameManager.cs"
+"Assets/Scripts/MonsterGenerator.cs"
 -langversion:8.0
 
 /deterministic
